@@ -6,9 +6,9 @@ layout: tabbed-assignment
 
 By the end of this lesson, you will be able to:
 
-* 
-* 
-* 
+* Use tags to label game objects and call them in the code
+* Use script communication to access the methods and variables of other scripts
+* Find the dimensions of an object's collider
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
