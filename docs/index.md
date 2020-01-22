@@ -4,9 +4,9 @@ layout: tabbed-assignment
 
 # Overview
 
-<img class="overview-image" src="">
+<img class="overview-image" src="https://connect-prd-cdn.unity.com/20190521/learn/images/a1933a41-31a9-4777-9a13-7549f200c418_3_2_full.png">
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+In this lesson we'll create an "infinite" background as the player runs through the game. When the player crashes into the obstacle, we'll make the game stop.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
